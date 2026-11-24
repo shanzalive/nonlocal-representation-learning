@@ -1,0 +1,11 @@
+# fMRI analyses (MRI_DATA/MRI_REAL/code), Python 3.11 -- separate environment from requirements.txt
+numpy==2.2.0
+pandas==2.2.3
+scipy==1.14.1
+statsmodels==0.14.5
+nilearn==0.11.0
+nibabel==5.3.2
+scikit-learn==1.6.0
+matplotlib
+seaborn
+pingouin

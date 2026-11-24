@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+# Python
+__pycache__/
+*.pyc
+# model outputs and figures are not part of the repository
+*_outputs/
+*.npy
+*.npz
+*.pdf
+*.png
