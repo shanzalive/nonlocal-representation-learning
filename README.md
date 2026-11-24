@@ -1,8 +1,4 @@
-# Non-local representation learning
-
-Analysis code for an fMRI study of how learning in one task context changes the
-representations of other, related states, and for neural network simulations of the
-same task.
+# Code for study about non-local representation learning in human Orbitofrontal cortex and Neural nets
 
 ## Contents
 
@@ -30,8 +26,6 @@ available, and the code will be documented in full, upon publication.
 - Run the network scripts from inside `RNN_simulations/state_form_RNN/`.
 - `*_tardis.sh` scripts submit one job per participant on our cluster; the Python scripts
   can also be run directly.
-- Paths to data, outputs and figures are set at the top of each script; adjust them to
-  your own setup.
 
 ## Requirements
 
